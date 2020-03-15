@@ -1,8 +1,8 @@
 Google Preview for TYPO3 Editors
 ================================
 
->[!WARNING]
->:warning: THIS EXTENSION WILL NO LONGER BE MAINTAINED
+>:warning: **THIS EXTENSION WILL NO LONGER BE MAINTAINED**
+
 >Please use the yoast SEO extension instead: https://extensions.typo3.org/extension/yoast_seo/
 
 
